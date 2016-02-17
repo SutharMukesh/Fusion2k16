@@ -71,12 +71,22 @@
                             android:text="Contact"
                             />
                         <TextView
-                            android:layout_margin="5dp"
+                            android:layout_marginBottom="3dp"
+                            android:layout_marginLeft="15dp"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:autoLink="phone"
-                            android:textSize="15dp"
-                            android:text="@string/Techno"/>
+                            android:text="Trupti Vishwasrao 9819144675"
+                            />
+                        <TextView
+                            android:layout_marginBottom="3dp"
+                            android:layout_marginLeft="15dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:autoLink="phone"
+                            android:text="Tejali Mahadik 9757212759"
+                            />
+
                     </LinearLayout>
 
                 </android.support.v7.widget.CardView>

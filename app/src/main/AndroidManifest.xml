@@ -6,7 +6,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/asd"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -69,7 +69,8 @@
         <activity android:name=".Ratta" />
         <activity android:name=".Langame" />
         <activity android:name=".Web" />
-        <activity android:name=".Visitweb"></activity>
+        <activity android:name=".Visitweb" />
+        <activity android:name=".Developed"></activity>
     </application>
 
 </manifest>

@@ -35,7 +35,7 @@
                         android:padding="10dp"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        android:text="Techno-Dart"/>
+                        android:text="Box Cricket"/>
 
                 </android.support.v7.widget.CardView>
                 <android.support.v7.widget.CardView
@@ -51,7 +51,45 @@
                         android:textSize="17dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="A DART will be created consisting of different parts (topics). According to the topics various Quiz’s will be provided .The participants who answers maximum quiz’s wins."/>
+                        android:text="\t\t\t\t\t\t\t\t\t\tEntry Fees 300/- Rs\n\n\t\t\tRules And Regulations Box Cricket
+\n
+
+\n The team should report 30 minutes before the scheduled matches.
+ \n
+
+\n If a team reports late, the team will be penalized as per the discretion of the umpire.
+ \n
+
+\n The rules as adopted shall apply, unless otherwise modified fully/partially and specified.
+\n
+
+\n Balls and All other Cricketing Equipment's will be provided by the organizers.
+\n
+
+\n Each team will be given 20 minutes to bowl 05 over's and if exceeded will be penalized by the Umpires.
+ \n
+
+\n Free Hit will be given for every overstepped No-Ball or wide balls will be given 02 runs. Fielding restrictions is not applicable.
+ \n
+
+\n Decision of the Umpire will be final.
+ \n
+
+\n The squad should consist of 06 players.
+ \n
+
+ \nThe balls will be thrown overhand to the batsmen from half Pitch. The tournament will be played with soft Tennis ball.
+ \n
+
+\n All the hits outside the Box will be declared out.
+ \n
+
+ \nThe tournament will be played on knockout basis.
+ \n
+
+ \nAll other details of the activity will be explained on the spot by the activity supervisors.
+ \n
+"/>
                 </android.support.v7.widget.CardView>
                 <android.support.v7.widget.CardView
                     app:cardElevation="5dp"
@@ -78,14 +116,7 @@
                             android:autoLink="phone"
                             android:text="Manish Dalvi 09870642724"
                             />
-                        <TextView
-                            android:layout_marginBottom="3dp"
-                            android:layout_marginLeft="15dp"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:autoLink="phone"
-                            android:text="Akash Landge"
-                            />
+
                     </LinearLayout>
 
                 </android.support.v7.widget.CardView>

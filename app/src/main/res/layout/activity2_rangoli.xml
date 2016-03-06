@@ -35,7 +35,7 @@
                         android:padding="10dp"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        android:text="Techno-Dart"/>
+                        android:text="Rangoli"/>
 
                 </android.support.v7.widget.CardView>
                 <android.support.v7.widget.CardView
@@ -51,7 +51,9 @@
                         android:textSize="17dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="A DART will be created consisting of different parts (topics). According to the topics various Quiz’s will be provided .The participants who answers maximum quiz’s wins."/>
+                        android:text="\t\t\t\t\t\t\t\t\t\tEntry Fees 30/- Rs\n\n\t\t\tOn the basis of Judge’s view, the best Rangoli will brag the prize.
+
+"/>
                 </android.support.v7.widget.CardView>
                 <android.support.v7.widget.CardView
                     app:cardElevation="5dp"
@@ -76,7 +78,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:autoLink="phone"
-                            android:text="Neelam Kamble 09870089533"
+                            android:text="Neelam Kamble 9870089533"
                             />
                         <TextView
                             android:layout_marginBottom="3dp"
@@ -84,15 +86,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:autoLink="phone"
-                            android:text="Yugandhara 09167776966"
-                            />
-                        <TextView
-                            android:layout_marginBottom="3dp"
-                            android:layout_marginLeft="15dp"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:autoLink="phone"
-                            android:text="Yugandhara 09167776966"
+                            android:text="Yugandhara         9167776966"
                             />
                     </LinearLayout>
 

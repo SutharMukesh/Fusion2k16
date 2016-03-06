@@ -8,7 +8,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/untitledma02in"
+        android:background="#252222"
         android:scaleType="centerCrop"
         />
 
@@ -16,6 +16,13 @@
 android:layout_width="match_parent"
 android:layout_height="match_parent"
 tools:context=".Splashh">
+    <ImageView
+        android:id="@+id/imageview1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/untitledma02in"
+        android:scaleType="centerCrop"
+        />
     <ImageView
         android:layout_width="300dp"
         android:layout_height="200dp"

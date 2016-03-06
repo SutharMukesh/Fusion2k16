@@ -35,7 +35,7 @@
                         android:padding="10dp"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        android:text="Techno-Dart"/>
+                        android:text="Rubix"/>
 
                 </android.support.v7.widget.CardView>
                 <android.support.v7.widget.CardView
@@ -51,7 +51,29 @@
                         android:textSize="17dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="A DART will be created consisting of different parts (topics). According to the topics various Quiz’s will be provided .The participants who answers maximum quiz’s wins."/>
+                        android:text="\t\t\t\t\t\t\t\t\t\tEntry Fees 30/- Rs\n\n\t\t\tTwist your mind with our mind blowing puzzles.Break the records with our puzzles varying from the simple 3x3 cube to the Megaminx. And earn prizes for having fun!
+\n
+\nEvent format
+\n
+
+\nThe contest consists of 4 levels:
+
+\nChild's 3x3x3 puzzle:
+\n>  Here, you will need to solve a simple 3x3x3 Rubik's cube.
+\nTime limit: 3 minutes
+\n
+
+\nRules:
+\n
+
+\n>  Rubik's Cube will be provided to the participants.
+
+\n>  Every participant must strictly follow the time constraints.
+
+\n>  Any kind of malpractices will not be tolerated and will lead to disqualification.
+
+\n
+"/>
                 </android.support.v7.widget.CardView>
                 <android.support.v7.widget.CardView
                     app:cardElevation="5dp"
@@ -76,7 +98,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:autoLink="phone"
-                            android:text="Shailesh Sakat 07710885281"
+                            android:text="Shailesh Sakat 7710885281"
                             />
                     </LinearLayout>
 

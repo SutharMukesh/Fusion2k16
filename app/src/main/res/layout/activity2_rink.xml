@@ -35,7 +35,7 @@
                         android:padding="10dp"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        android:text="Techno-Dart"/>
+                        android:text="Rink Football"/>
 
                 </android.support.v7.widget.CardView>
                 <android.support.v7.widget.CardView
@@ -51,7 +51,7 @@
                         android:textSize="17dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="A DART will be created consisting of different parts (topics). According to the topics various Quiz’s will be provided .The participants who answers maximum quiz’s wins."/>
+                        android:text="\t\t\t\t\t\t\t\t\t\tEntry Fees 300/- Rs"/>
                 </android.support.v7.widget.CardView>
                 <android.support.v7.widget.CardView
                     app:cardElevation="5dp"
@@ -76,15 +76,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:autoLink="phone"
-                            android:text="Saurabh Uchil 09867996894"
-                            />
-                        <TextView
-                            android:layout_marginBottom="3dp"
-                            android:layout_marginLeft="15dp"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:autoLink="phone"
-                            android:text="Balaji Nadar"
+                            android:text="Saurabh Uchil 9867996894"
                             />
                     </LinearLayout>
 
